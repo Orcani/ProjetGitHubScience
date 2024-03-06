@@ -17,6 +17,8 @@ struct ContentView: View {
                 .font(.title)
             Text("Je modifie le fichier")
                 .font(.headline)
+            Text("moi aussi j'aime modifier des choses")
+                .font(.headline)
         }
         .padding()
     }
