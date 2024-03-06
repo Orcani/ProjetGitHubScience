@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Coucou")
+            Text("heyyyy")
                 .font(.title)
             Text("Je modifie le fichier")
                 .font(.headline)
