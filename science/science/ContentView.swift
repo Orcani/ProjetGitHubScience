@@ -20,6 +20,13 @@ struct ContentView: View {
                 .font(.headline)
             Text("moi aussi j'aime modifier des choses")
                 .font(.headline)
+            Text("Delphine a encore modifier mais cette fois-ci le 7 mars à 15h18")
+            HStack {
+                Image(systemName: "heart.fill")
+                    .foregroundColor(.red)
+                Text("Hihihi")
+            }
+               
         }
         .padding()
     }
