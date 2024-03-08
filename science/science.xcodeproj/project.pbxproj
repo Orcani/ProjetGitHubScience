@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		63B153F92B9B05AA0004BFFD /* TessaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B153F82B9B05AA0004BFFD /* TessaView.swift */; };
 		A3B0B68B2B989FCE00DD308B /* scienceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B0B68A2B989FCE00DD308B /* scienceApp.swift */; };
 		A3B0B68D2B989FCE00DD308B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B0B68C2B989FCE00DD308B /* ContentView.swift */; };
 		A3B0B68F2B989FCF00DD308B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3B0B68E2B989FCF00DD308B /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		63B153F82B9B05AA0004BFFD /* TessaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TessaView.swift; sourceTree = "<group>"; };
 		A3B0B6872B989FCE00DD308B /* science.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = science.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3B0B68A2B989FCE00DD308B /* scienceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scienceApp.swift; sourceTree = "<group>"; };
 		A3B0B68C2B989FCE00DD308B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		A3B0B67E2B989FCE00DD308B = {
 			isa = PBXGroup;
 			children = (
+				63B153F82B9B05AA0004BFFD /* TessaView.swift */,
 				A3B0B6892B989FCE00DD308B /* science */,
 				A3B0B6882B989FCE00DD308B /* Products */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3B0B68D2B989FCE00DD308B /* ContentView.swift in Sources */,
+				63B153F92B9B05AA0004BFFD /* TessaView.swift in Sources */,
 				A3B0B68B2B989FCE00DD308B /* scienceApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
